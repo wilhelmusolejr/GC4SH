@@ -15,7 +15,7 @@ from playwright.async_api import async_playwright
 # isExist = os.path.exists(path + "/"+ phone + "/"+application+".txt")
 # print(isExist)
 
-phone = "9972976807";
+phone = "";
 
 fNames = ["Harry","Angel","Bruce","Cook","Carolyn","Andrea","Albert","Joshua","Randy","Althea","Larry","Barnes","Nathalie","Wilson","Jesse","Samantha","Ernest","Princess","Sophia","Javier","Henry","Simmons","Michelle","David","Manalo","Shaina","Aguilar"];
 mNames = ["Brooks","Rachel","Edwards","Christopher","Perez","Thomas","Baker","Sara","Moore","Chris","Bailey","Roger","Johnson","Marilyn","Thompson","Anthony","Evans","Julie","Hall","Paula","Phillips","Annie","Hernandez","Dorothy","Murphy","Alice","Howard"];
