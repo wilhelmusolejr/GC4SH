@@ -20,14 +20,6 @@ This section provides an overview of the key technologies and frameworks utilize
 * Automation Library: Playwright
 * Additional Libraries: os, datetime, random
 
-## Screenshot
-<div align="center">
-  <img src="public/images/screenshot1.png" alt="Screenshot 1">
-</div>
-<div align="center">
-  <img src="public/images/screenshot2.png" alt="Screenshot 2">
-</div>
-
 ## Support or Contact
 If you encounter any issues or have questions about this bot, please don't hesitate to reach out to me directly at [wilhelmus.olejr@gmail.com](mailto:wilhelmus.olejr@gmail.com). As the sole developer, I am dedicated to offering support and will do my best to respond to your queries and concerns promptly.
 
